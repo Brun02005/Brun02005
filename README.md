@@ -8,7 +8,11 @@
   <a href="https://brun02005.github.io"><img src="https://img.shields.io/badge/portfolio-brun02005.github.io-ffffff?style=for-the-badge&labelColor=0d1117&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/brunosavarella/"><img src="https://img.shields.io/badge/linkedin-brunosavarella-ffffff?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:brunosavarella@gmail.com"><img src="https://img.shields.io/badge/email-escribime-ffffff?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.fiverr.com/bruno_savarella"><img src="https://img.shields.io/badge/fiverr-contratame-1dbf73?style=for-the-badge&labelColor=0d1117&logo=fiverr&logoColor=white" alt="Contratame en Fiverr"></a>
 </p>
+
+<p align="center"><b>¿Necesitás un desarrollador?</b> Hago scraping y automatizaciones con Python e IA, landing pages y arreglo errores en proyectos Python, JavaScript y React.<br>
+<a href="https://www.fiverr.com/bruno_savarella">Contratame en Fiverr</a> con pago protegido, o escribime directo.</p>
 
 ---
 
